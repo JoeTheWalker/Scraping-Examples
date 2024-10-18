@@ -1,0 +1,3 @@
+For ease of use and I have used a Mongo Database here for it's simplicity
+
+The database is stored on a local host on my PC, it only has one collection with that being the the results and within each document within that collection it holds the information for each tyre.
